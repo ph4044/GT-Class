@@ -1,0 +1,73 @@
+    body {
+        background-color: #efeee7;
+        font-family: Georgia,"Times New Roman",Times,serif;
+        color: #333333;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #333333;
+    }
+
+    a {
+        color:#d21034;
+    }
+
+    div {
+        line-height: 1.5;
+    }
+
+    /* h1 heading tag */
+    h1 {
+      /* Put a 15-pixel margin at the bottom of the heading. */
+      margin-bottom: 30px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      /* Change the size of your font to 28 pixels high. */
+      font-size: 28px;
+      /* This will color the heading font. */
+      color: #eee;
+      /* Align the text to the center of its enclosing element (e.g. div). */
+      text-align: center;
+ 
+    }
+    /* h2 heading tags */
+    h2 {
+      font-size: 24px;
+    }
+
+    /* paragraph tags */
+    p {
+      text-align: left;
+      font-size: 20px;
+    }
+    
+    /* All unordered list tags */
+    ul {
+      text-align: left;
+     }
+
+    #bio-image {
+        float: left;
+        width: 200px;
+        margin-right: 25px;
+        margin-left: 0px;
+    }
+
+    #contact-info {
+        float: left;
+        width: 278px;
+    }
+
+    #main-bio {
+        text-align: left;
+        float: left;
+        width: 680px;
+        margin-left: 30px;
+    }
+
+    .container {
+        width: 1024px;
+        margin: 0 auto;
+    }
